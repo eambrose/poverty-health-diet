@@ -1,6 +1,6 @@
 # Poverty, food acess, diet, and health
 
-data from the USDA's [Food Environment Atlas](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+data from the USDA's [Food Environment Atlas](http://www.ers.usda.gov/data-products/food-environment-atlas.aspx)
 
 ### Poverty and health
 Obesity and diabetes prevalence correlate with poverty in US counties
